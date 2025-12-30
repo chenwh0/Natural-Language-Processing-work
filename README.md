@@ -2,4 +2,4 @@ Natural Language Processing notes
 
 (click below to interact)
 
-[<img width="1537" height="1710" alt="image" src="https://github.com/user-attachments/assets/9622bf82-54c9-454a-84e2-4db3327d65b0" />](https://github.com/chenwh0/Natural-Language-Processing-work/blob/main/NLPNotes.pdf)
+[<img width="1700" height="1625" alt="image" src="https://github.com/user-attachments/assets/b47d1463-62b0-491a-a3b2-9b561ad13057" />](https://github.com/chenwh0/Natural-Language-Processing-work/blob/main/NLPNotes.pdf)
