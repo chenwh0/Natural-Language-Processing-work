@@ -2,7 +2,6 @@
 
 Contains code that utilizes core concepts of text processing (including bag of words, TF-IDF, and word embeddings), NLP pipelines, and text classification using methods like Word2Vec, Doc2Vec, deep learning, and BERT. 
 
----
 ## Modules 5–7: Large Language Models and Advanced NLP
 
 Contains code that utilizes large language models (LLMs) with a focus on LLM tokens, embeddings, and transformer architecture improvements, classification using LLMs, prompt engineering, and advanced text generation techniques and tools—including agents and LLM-based systems.
